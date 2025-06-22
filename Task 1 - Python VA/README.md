@@ -20,7 +20,7 @@ It leverages speech recognition to perform various tasks such as checking the we
 - **Ask General Knowledge Questions** via Wikipedia
 
 
-# 📦 Requirements
+# Requirements
 
 Install dependencies using:
 
