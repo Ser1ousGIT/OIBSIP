@@ -1,6 +1,7 @@
 # MyBot - AI Voice Assistant in Python
 
 This is the first project for my OIBSIP internship in Python Programming. "Task 1"; an advanced Voice Assistant in Python. 
+---
 MyBot is a personal voice assistant built using Python.
 It leverages speech recognition to perform various tasks such as checking the weather, sending emails, setting reminders, controlling smart devices (simulated), and answering general knowledge questions via Wikipedia.
 
