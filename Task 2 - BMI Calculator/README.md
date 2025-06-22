@@ -22,7 +22,7 @@ A simple Python-based **BMI Calculator** with a GUI using **Tkinter**. This proj
 > ![GUI](GUI_SS.png)
 
 
-# 📦 Requirements
+# Requirements
 
 Install dependencies using:
 
