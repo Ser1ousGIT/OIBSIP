@@ -45,7 +45,7 @@ def command():
         return "none"
     return question
 
-def setup():
+def setup(): #any input required through keyboard can be entered only though terminal and not the GUI interface
     gui_log("Running setup.")
     speak("Welcome to MyBot setup! Please type your name.")
     user_name = input("Enter your name: ")
