@@ -20,17 +20,6 @@ It leverages speech recognition to perform various tasks such as checking the we
 - **Ask General Knowledge Questions** via Wikipedia
 
 
-# Project Structure
-
-MyBot/
-├── main.py
-├── main_GUI.py
-├── .env
-├── README.md
-├── install.txt
-├── .gitignore
-
-
 # 📦 Requirements
 
 Install dependencies using:
