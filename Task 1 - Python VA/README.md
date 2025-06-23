@@ -23,7 +23,7 @@ It leverages speech recognition to perform various tasks such as checking the we
 # **Complete Explanation**
 
 A full breakdown and explanation of this project has been shared on LinkedIn.  
-👉 [View Full Explanation on LinkedIn]([https://www.linkedin.com/in/your-profile-placeholder](https://www.linkedin.com/posts/anandswaroopv_oasisinfobyte-oasisinfobytefamily-internship-activity-7342568522029432833-KADo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpwJ1kBIUoA6yMGOx-pVGAKQ58bAN7s_fI))
+👉 [https://www.linkedin.com/posts/anandswaroopv_oasisinfobyte-oasisinfobytefamily-internship-activity-7342568522029432833-KADo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpwJ1kBIUoA6yMGOx-pVGAKQ58bAN7s_fI)]
 
 
 # Code Explanation
